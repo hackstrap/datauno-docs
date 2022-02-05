@@ -50,6 +50,10 @@ Enter into the unarchived folder by running 👇
 cd datauno-demo
 ```
 
+```bash
+cd kubernetes
+```
+
 And then run the following command to create all the resources 👇
 
 ```
