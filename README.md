@@ -114,3 +114,10 @@ To check the logs of a pod:
 ```bash
 kubectl logs -n datauno-demo --follow <pod_name>
 ```
+# Delete Services
+
+To delete all the pods and services:
+
+```bash
+kubectl delete -k .  
+```
