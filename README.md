@@ -112,5 +112,5 @@ Now start the a server server in this directory. See [top 👆](#frontend-folder
 To check the logs of a pod:
 
 ```bash
-kubectl logs -n datauno --follow <pod_name>
+kubectl logs -n datauno-demo --follow <pod_name>
 ```
